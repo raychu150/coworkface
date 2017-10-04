@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "coworkface.data.unityweb",
+"asmCodeUrl": "coworkface.asm.code.unityweb",
+"asmMemoryUrl": "coworkface.asm.memory.unityweb",
+"asmFrameworkUrl": "coworkface.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
